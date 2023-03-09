@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2OHEjVwRo+Jy+yA1MTm5qX2MxS5wIRu4zYtrgTZDXjXJee43W8Q/XZ8fVXN2LC58KW4EhKYizXMrt+h1oKm8Vg==",
+  "success": true,
+  "projectFilePath": "D:\\Programowanie\\Rider\\ProjektP4-09.03.2023\\ProjektP4\\ProjektP4\\ProjektP4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xdkub\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
