@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2OHEjVwRo+Jy+yA1MTm5qX2MxS5wIRu4zYtrgTZDXjXJee43W8Q/XZ8fVXN2LC58KW4EhKYizXMrt+h1oKm8Vg==",
+  "dgSpecHash": "POzaf3jd9QapKC30ejxCb6cwniqqiu/gTVSagwKzvEWnR4CpVuGqJT71G0a73XMIFqLg+fGN0FGCIqDdHCatbg==",
   "success": true,
-  "projectFilePath": "D:\\Programowanie\\Rider\\ProjektP4-09.03.2023\\ProjektP4\\ProjektP4\\ProjektP4.csproj",
+  "projectFilePath": "H:\\PROGRAMMING\\C#\\Projekt-P4\\ProjektP4\\ProjektP4.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\xdkub\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+    "C:\\Users\\satheek\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\satheek\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\satheek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\satheek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\satheek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }

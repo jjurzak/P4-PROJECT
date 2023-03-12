@@ -26,3 +26,4 @@ public sealed class HotelsMap : ClassMap<Hotels>
         Map(m => m.Adres).Index(7);
     }
 }
+
